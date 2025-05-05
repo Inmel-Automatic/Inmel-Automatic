@@ -25,7 +25,7 @@ Hi, We are AUTOMATICA. We are the best team in Inmel. 😊👌
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="automatic@inmel.co" target="blank"></a>
+<p>automatic@inmel.co</p>
 
 </p>
 
