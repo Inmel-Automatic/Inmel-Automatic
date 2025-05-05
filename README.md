@@ -25,7 +25,7 @@ Hi, We are AUTOMATICA. We are the best team in Inmel. 😊👌
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/steven-acosta-calle-42b50080/" target="blank"><img align="center" src="profile/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
+<a href="automatic@inmel.co" target="blank"></a>
 
 </p>
 
