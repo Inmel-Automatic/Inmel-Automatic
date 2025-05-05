@@ -11,11 +11,11 @@
 
 <!-- About me -->
 <p>
-Hi, my name is Steven. I'm a Data and Automation Engineer focused on automation, data analytics, and RPA. I enjoy writing maintainable code and building challenging projects, programming, and creating products with a great user experience. 😊👌 
+Hi, We are AUTOMATICA. We are the best team in Inmel. 😊👌 
 </p>
 
 <!-- Personal Stuffs -->
-<h3> Talking about personal stuffs:</h3>
+<h3> Talking about the team stuffs:</h3>
 
 - 📝 I like team work
 
@@ -31,6 +31,7 @@ Hi, my name is Steven. I'm a Data and Automation Engineer focused on automation,
 
 <!-- Languages and tools -->
 <h3 align="left">Languages and Tools:</h3>
+
 - ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)  
