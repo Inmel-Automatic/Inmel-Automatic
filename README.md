@@ -1,6 +1,6 @@
-## 🎥 Video de presentación
+## 🖼️ Imagen de presentación
 
-![Banner](profile/automation_gif.gif)
+![Banner](profile/imagen-perfil.png)
 
 <h1 style="display: flex; align-items: center;">
   <span style="color: black;">👋 ¡Hola! Somos </span>
@@ -48,7 +48,6 @@ Nuestro equipo AUTOMATIC, se especializa en:
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Inmel-Automatic&show_icons=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inmel-Automatic&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
 </p>
 
 ---
